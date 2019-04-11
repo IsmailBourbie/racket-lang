@@ -5,6 +5,3 @@
 (/ 12 (* 2 3)) ; 12 / (2*3) = 2
 (sqr 3) ; 3² = 9
 (sqrt 16); sqrt(16) = 4
-
-(sqrt (+ (sqr 3) (sqr 4))) ; sqrt(3² + 4²) = 5
-(sqrt 2) ; #i1.4142135623730951 (#i mean inexact number)
